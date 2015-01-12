@@ -1,33 +1,33 @@
-Neptune
+themercom
 -------
-Neptune is a responsive, HTML5 based, Zen 7.x-5.x sub-theme.
+themercom is a responsive, HTML5 based, Zen 7.x-5.x sub-theme.
 
 
 Installation
 ------------
-To install Neptune:
+To install themercom:
 
-- download both Neptune (latest version) and Zen 7.x-5.x
-- unpack the theme folders ('neptune' and 'zen') and place them in your site's
+- download both themercom (latest version) and Zen 7.x-5.x
+- unpack the theme folders ('themercom' and 'zen') and place them in your site's
   'sites/all/themes' directory (or other installation directory if required -
   see https://drupal.org/getting-started/install-contrib/themes)
 - log into your site and go to the 'Appearance' page (/admin/appearance) - both
-  Neptune and Zen should be listed
-- click the 'Enable and set default' link for Neptune
+  themercom and Zen should be listed
+- click the 'Enable and set default' link for themercom
 
 
 Theme settings
 --------------
-Both Neptune and Zen include theme settings, allowing you to customise aspects
+Both themercom and Zen include theme settings, allowing you to customise aspects
 of your theme (e.g. layout).
 
-You can find these settings by logging into your site and going to Neptune's
-settings page (/admin/appearance/settings/neptune).
+You can find these settings by logging into your site and going to themercom's
+settings page (/admin/appearance/settings/themercom).
 
 
 Documentation
 -------------
-Please see Neptune's documentation page (http://drupal.org/node/1946144) for
+Please see themercom's documentation page (http://drupal.org/node/1946144) for
 further information regarding:
 
 - theme settings (including layout and max width)
@@ -38,9 +38,9 @@ further information regarding:
 
 Links
 -----
-Neptune project page: http://drupal.org/project/neptune
-Neptune documentation: http://drupal.org/node/1946144
-Neptune demo site: http://lhmdesign.com/neptune
+themercom project page: http://drupal.org/project/themercom
+themercom documentation: http://drupal.org/node/1946144
+themercom demo site: http://lhmdesign.com/themercom
 Zen project page: http://drupal.org/project/zen
 Zen documentation: http://drupal.org/documentation/theme/zen
 
