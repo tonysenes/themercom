@@ -1,6 +1,6 @@
 themercom
 -------
-themercom is a responsive, HTML5 based, Zen 7.x-5.x sub-theme.
+themercom is a responsive, HTML5 based, Zen 7.x-5.x sub-theme.  Yay.
 
 
 Installation
